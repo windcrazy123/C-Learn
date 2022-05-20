@@ -3,6 +3,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# My Edit
+*.sln
+bin/
+obj/
+*.csproj
+WpfApp1/
+.git/
+
 # User-specific files
 *.rsuser
 *.suo
